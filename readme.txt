@@ -7,3 +7,4 @@ sub folder for nested routes
 deep dynamic route
 catch all deep nested into same page using [...routes]
 navigating with link
+navigate programatically using router 
